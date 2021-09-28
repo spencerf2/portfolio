@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'spencer.png',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -28,26 +28,26 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'Capture.PNG',
+    title: 'Capture.PNG',
+    info: 'Took a random screen shot to show this off',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'Earth_from_Saturn.jpg',
+    title: 'Earth from Saturn',
+    info: 'One of my favorite pics, so cool to see how small Earth is from within our own solar system',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'simone-secci-49uySSA678U-unsplash.jpg',
+    title: 'To be seen',
     info: '',
     info2: '',
     url: '',
